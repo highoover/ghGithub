@@ -6,29 +6,49 @@
 
 ### 1.教程资料
 https://github.com/wangding/courses/tree/master/github
+
 ### 2.git桌面工具
 ①git官网下载
+
 ②git --version命令难是否成功
+
 ③设置Git Bash环境
+
 - 光标颜色由白色改成：绿色
+
 - 光标开头由下划线改成：块状
+
 - 光标闪烁改成：不闪
+
 - 字体改成14号或16号
+
 - 字体集改成UTF-8（支持中文）
+
 - 重新进入Git Bash环境
+
 ### 3.Bash命令体验
 cd、mv、mkdir、cp、pwd、rm
+
 ### 4.设置Git参数
 ①显示当前的Git配置
+
 git config --list
+
 ②设置提交仓库时的用户名信息
+
 git config --global user.name "highoover"
+
 ③设置提交仓库时的邮箱信息
+
 git config --global user.email "gaohao323@sina.com"
+
 ### 5.git结构
 ①workspace（工作区）
+
 ②index/stage（暂存区）
+
 ③repository（仓库区或本地仓库）
+
 ### 6.新建代码仓库
 ①在当前目录下（不要中文）新建一个Git代码库
 git init
