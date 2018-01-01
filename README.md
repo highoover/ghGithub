@@ -25,7 +25,7 @@
 <p align='center'>hello markdown</p>
 
 ## 表格
-| 我 ｜ 是 ｜ 表 ｜头 ｜
+| 我 | 是 | 表 |头 |
 |----|----|----|----|
-｜ aa ｜ bb ｜ 双 ｜ ddd ｜
+| aa | bb | 双 | ddd |
 
