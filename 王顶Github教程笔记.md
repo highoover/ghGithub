@@ -1,5 +1,8 @@
 # ghGithub
 
+[Github年度报告](https://octoverse.github.com/)  
+[Github上各种资源汇集](https://github.com/sindresorhus/awesome/)  
+
 # 王顶_Github开源之旅
 
 ## 第一季启程
